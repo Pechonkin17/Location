@@ -1,0 +1,6 @@
+flask
+sqlalchemy
+flask-sqlalchemy
+pydantic
+psycopg2-binary
+psycopg2
